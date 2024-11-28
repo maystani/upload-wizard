@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"2nd-player",
+			"Shirayuki",
+			"Yusuke1109",
+			"Omotecho",
+			"Chqaz"
+		]
+	},
+	"apihelp-flickrblacklist-param-url": "テストする Flickr URL です。",
+	"apihelp-flickrblacklist-param-list": "設定すると、ブラックリスト全体を返します。$1url とは同時に使用できません。",
+	"apihelp-flickrblacklist-example-1": "URL をブラックリストで検証",
+	"apihelp-flickrblacklist-example-2": "ブラックリスト全体を返す",
+	"apihelp-query+allcampaigns-param-enabledonly": "有効になっているキャンペーンのみを列挙します。",
+	"apihelp-query+allcampaigns-param-limit": "キャンペーンの件数を返します。",
+	"apihelp-query+allcampaigns-example-1": "有効になっているキャンペーンを列挙する"
+}
